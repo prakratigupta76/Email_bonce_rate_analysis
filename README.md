@@ -15,7 +15,7 @@ A client reported an unusual increase in their email campaign bounce rate in **M
 
 | File Name                          | Description                                         |
 |-----------------------------------|-----------------------------------------------------|
-| `Email Bounce Rate Analysis Report.pdf`  | Main report outlining findings, charts, and solutions. |
+| `Email Bounce Rate Analysis Report.docx`  | Main report outlining findings, charts, and solutions. |
 | `Email Bounce Rate Analysis Data.xlsx` | Cleaned Excel file with PivotTables, slicers, and transformations. |
 
 ---
